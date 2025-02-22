@@ -103,7 +103,7 @@ Chatify is a comprehensive communication platform featuring user management, rea
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/loaferct/chatify.git
+git clone [https://github.com/loaferct/chatify.git](https://github.com/loaferct/chatify.git)
 cd chatify
 ```
 
