@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pymysql
+fastapi[standard]
+pydantic
+passlib[bcrypt]
+pyjwt
+mysql-connector-python
